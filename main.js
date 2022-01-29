@@ -3,8 +3,8 @@ let brushSize = 50;
 let showGrid = false;
 let fillColor = document.getElementById("color").value;
 let grid = {
-  width: 450,
-  height: 450,
+  width: 500,
+  height: 500,
 };
 
 function setup() {
