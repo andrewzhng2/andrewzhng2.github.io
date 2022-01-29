@@ -26,10 +26,13 @@ pre {
   padding: 0.5em;
 }
 #color {
-  margin-right: 0.4em;
+  position: fixed;
+  right: 10px;
+  top: 10px;
   border: 0.5px solid #aaa;
-  border-radius: 2px;
-  width: 25px;
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
 }
 
 #customCheckbox {
@@ -212,6 +215,9 @@ span {
 }
 
 .title {
+  position: fixed;
+  top: 10px;
+  left: 50px;
   padding: 20px;
-  margin-top: 200px;
+  
 }
