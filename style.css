@@ -7,7 +7,7 @@ body {
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
   font-size: 2em;
-  color: white;
+  color: black;
 }
 canvas {
   /* border: 0.1px solid white; */
