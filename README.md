@@ -1,5 +1,5 @@
 # andrewzhng2.github.io
-Website Stuff
+This is my collection of website projects I'm running through Github Pages. I have a bunch of ideas and hope this to be the literal representation of them.
 
 <ins>CommunityCanvas</ins>
 <br/>
