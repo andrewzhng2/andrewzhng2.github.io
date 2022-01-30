@@ -1,4 +1,10 @@
 # andrewzhng2.github.io
 Website Stuff
 
-This is a test for Community Canvas.
+<ins>CommunityCanvas</ins>
+This was our project for QHacks 2022 Interconnected.
+The idea is a website containing canvas that updates for everyone's input on the website.
+Create Art and Pictures with a community. Logic based on r/Place.
+Implemented p5 library for canvas.
+
+Created by Andrew Zhang, Kieran Hansen, Matthew Kompel, and Dylan Chipun
