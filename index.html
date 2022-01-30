@@ -12,13 +12,6 @@
         &nbsp;
       </p>
       <span class="title">Community Canvas</span><br />
-      <button
-        id="showSettings"
-        class="button button--save"
-        onclick="document.getElementById('settings').style.display='block';this.style.display='none'"
-      >
-        Settings
-      </button>
 
       <div class="options" id="settings">
         <div
@@ -27,11 +20,14 @@
         >
           Close
         </div>
+        Grid:
+        <input type="checkbox" id="customCheckbox" />
+        <label for="customCheckbox"></label>
         <div class="size">
           <div class="gridSize">
             <div class="gridWidth">
               <span id="gridWidthLabel">
-                Grid width [1700px]: <!-- Should be 450 -->
+                Grid width [1800px]: <!-- Should be 450 -->
               </span>
               <input
                 class="slider"
@@ -45,7 +41,7 @@
             </div>
             <div class="gridHeight">
               <span id="gridHeightLabel">
-                Grid height [600px]: <!-- Should be 450 -->
+                Grid height [1000px]: <!-- Should be 450 -->
               </span>
               <input
                 class="slider"
@@ -84,14 +80,6 @@
 
       <div class="colorPicker">
         <input id="color" type="color" value="71fff8" />
-      </div>
-      Grid:
-      <input type="checkbox" id="customCheckbox" />
-      <label for="customCheckbox"></label>
-      <div class="button-wrapper">
-        <button class="button button--save" onclick="saveCanvas()">
-          ⬇ Save Image
-        </button>
       </div>
     </center>
 
