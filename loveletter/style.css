@@ -2,7 +2,7 @@ header {
   /* background: #ffffe6; 151b1f*/ 
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
-  font-size: 2em;
+  font-size: 30px;
   color: black;
 }
 
@@ -10,6 +10,6 @@ body {
   /* background: #ffffe6; /*151b1f*/
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
-  font-size: 1em;
+  font-size: 10px;
   color: black;
 }
