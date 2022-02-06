@@ -1,5 +1,5 @@
 head {
-  background: #ffffe6; /*151b1f*/
+  /* background: #ffffe6; 151b1f*/ 
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
   font-size: 2em;
@@ -7,7 +7,7 @@ head {
 }
 
 body {
-  background: #ffffe6; /*151b1f*/
+  /* background: #ffffe6; /*151b1f*/
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
   font-size: 2em;
