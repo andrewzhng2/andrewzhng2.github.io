@@ -3,7 +3,9 @@ header {
   font-family: "Garamond", "Gerogia", "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
     serif;
   font-size: 1em;
-  color: black;
+  background-color: black;
+  color: whitesmoke;
+  margin: auto;
 }
 
 body {
