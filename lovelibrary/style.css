@@ -101,7 +101,7 @@ body {
 }
 
 .image_overlay:hover > *{
-  transform: translateY(20px);
+  transform: translateY(0);
 }
 
 .img_title{
