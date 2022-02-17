@@ -18,13 +18,13 @@ body {
 }
 
 .p1 {
-  font-family: "Times New Roman", "Monaco", monospace;
+  font-family: "Garamond", "Monaco", monospace;
   font-size: 25px;
   color: black;
 }
 
 .p2 {
-  font-family: "Times New Roman", "Monaco", monospace;
+  font-family: "Garamond", "Monaco", monospace;
   font-size: 25px;
   color: black;
 }
@@ -41,7 +41,7 @@ body {
   align-items: center;
   display: block;
   color: #f2f2f2;
-  font: "Montserrat",Verdana,sans-serif;
+  font: "Sans",Verdana,sans-serif;
   text-align: center;
   padding: 14px 16px;
   margin: auto;
