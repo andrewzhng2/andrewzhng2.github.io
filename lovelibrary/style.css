@@ -5,10 +5,8 @@ header {
   background-color: #e4002b;
   color: #fff;
   display: flex;
-  height: 80px;
-  float: left;
-  max-width: 100%;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 body {
