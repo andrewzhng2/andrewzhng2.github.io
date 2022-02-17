@@ -6,6 +6,7 @@ header {
   color: #fff;
   display: flex;
   height: 80px;
+  float: left;
   max-width: 100%;
   text-align: center;
 }
