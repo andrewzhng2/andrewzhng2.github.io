@@ -2,18 +2,11 @@ header {
   /* background: #ffffe6; 151b1f*/ 
   font-family: "MetSans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 600;
-  font-style: normal;
   background-color: #e4002b;
   color: #fff;
-  display: -webkit-box;
   display: flex;
   height: 60px;
   max-width: 100%;
-  margin: 0 auto;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 999;
 }
 
 body {
